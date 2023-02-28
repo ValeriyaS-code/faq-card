@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.main {
+    display: flex;
+    width: 57.5rem;
+    height: 31.8rem;
+    background-color: #F2F2F2;
+    margin: 10rem auto;
+}
+
+.img {
+    width: 50%;
+}
+
+.content {
+    width: 50%;
+}
